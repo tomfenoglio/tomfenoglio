@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My portfolio:</h2>
 
-- <b>[www.argentinainspections.com](www.argentinainspections.com)</b>
+- <b>www.argentinainspections.com</b>
   - This is a real project running right now. It is a static website made simply with HTML, CSS and JavaScript, about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries.
 - <b>www.entradaselectronicas.com</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
