@@ -8,6 +8,8 @@
   - This is a project in current development. It is a platform where different user profiles can create events, sell, buy and transfer tickets for shows. The goal is that in a few months it will be fully functional and in service to the public.
     - The frontend is being developed using React and Next.js. [Repository](https://github.com/tomfenoglio/entradaselectronicas-frontend.git)
     - The backend is being developed using Python and Django. [Repository](https://github.com/tomfenoglio/entradaselectronicas-backend.git)
+- <b>React Static Developer Portfolio</b>
+  - A model of a basic web developer portfolio made in React.[Repository](https://github.com/tomfenoglio/react-static-portfolio.git)
 
 
 <h2> 🤳 Connect with me:</h2>
