@@ -1,6 +1,6 @@
-<h1>Hi, I'm Tom! <br/> Industrial Engineer and software developer.</h1>
+<h1>Hi, I'm Tom! <br/> Industrial Engineer and Web Developer.</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My portfolio:</h2>
 
 - <b>[www.argentinainspections.com](www.argentinainspections.com)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
