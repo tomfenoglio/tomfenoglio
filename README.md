@@ -3,8 +3,8 @@
 <h2>👨‍💻 My portfolio:</h2>
 
 - <b>[www.argentinainspections.com](www.argentinainspections.com)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - This is a real project running right now. It is a static website made simply with HTML, CSS and JavaScript, about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries.
+- <b>www.entradaselectronicas.com</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
