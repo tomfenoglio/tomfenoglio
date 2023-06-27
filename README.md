@@ -3,9 +3,11 @@
 <h2>👨‍💻 My portfolio:</h2>
 
 - <b>www.argentinainspections.com</b>
-  - This is a real project running right now. It is a static website made simply with HTML, CSS and JavaScript, about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries.
+  - This is a real project running right now. It is a static website made simply with HTML, CSS and JavaScript, about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries. [Repository](https://github.com/tomfenoglio/argentina-property-inspections.git)
 - <b>www.entradaselectronicas.com</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - This is a project in current development. It is a platform where different user profiles can create events, sell, buy and transfer tickets for shows. The goal is that in a few months it will be fully functional and in service to the public.
+    - The frontend is being developed using React and Next.js. [Repository](https://github.com/tomfenoglio/entradaselectronicas-frontend.git)
+    - The backend is being developed using Python and Django. [Repository](https://github.com/tomfenoglio/entradaselectronicas-backend.git)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
