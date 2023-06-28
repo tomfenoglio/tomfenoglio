@@ -3,7 +3,7 @@
 <h2>👨‍💻 My portfolio:</h2>
 
 - <b>Argentina Property Inspections</b>
-  - This is a real project running right now. It is a static website made simply with HTML, CSS and JavaScript, about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries. [Repository](https://github.com/tomfenoglio/argentina-property-inspections.git) www.argentinainspections.com
+  - This is a real project that is in operation about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries. It is a static website made simply with HTML, CSS and JavaScript but with very successful SEO. [Repository](https://github.com/tomfenoglio/argentina-property-inspections.git) www.argentinainspections.com
 - <b>React Static Developer Portfolio</b>
   - A model of a basic web developer portfolio made in React. [Repository](https://github.com/tomfenoglio/react-static-portfolio.git)
 - <b>Django API for a restaurant</b>
