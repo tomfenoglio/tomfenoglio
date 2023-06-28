@@ -6,6 +6,8 @@
   - This is a real project running right now. It is a static website made simply with HTML, CSS and JavaScript, about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries. [Repository](https://github.com/tomfenoglio/argentina-property-inspections.git) www.argentinainspections.com
 - <b>React Static Developer Portfolio</b>
   - A model of a basic web developer portfolio made in React. [Repository](https://github.com/tomfenoglio/react-static-portfolio.git)
+- <b>API for a restaurant</b>
+  - This is my final project of the APIs course of the Meta Back-End Developer Professional Certificate using Django and DRF. Its a fully functioning API project for the Little Lemon restaurant so that the client application developers can use the APIs to develop web and mobile applications. People with different roles will be able to browse, add and edit menu items, place orders, browse orders, assign delivery crew to orders and finally deliver the orders. [Repository](https://github.com/tomfenoglio/django-api-littlelemon.git)
 - <b>entradas electronicas</b>
   - This is a project in current development. It is a platform where different user profiles can create events, sell, buy and transfer tickets for shows. The goal is that in a few months it will be fully functional and in service to the public.
     - The frontend is being developed using React and Next.js. [Repository](https://github.com/tomfenoglio/entradaselectronicas-frontend.git)
