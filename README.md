@@ -2,6 +2,9 @@
 
 <h2>👨🏻‍💻 My portfolio:</h2>
 
+- <b>[Google Drive Confidential Analyzer](https://github.com/tomfenoglio/drive-confidential-analyzer)</b>
+  - App developed in python (django) to analyze files from a Google Drive with the aim of avoiding the leakage of confidential information. Inventory the information of all the files, in a MySQL database. Sends automatic emails to file owners with a questionnaire that defines a classification of sensitive information. Change states of public files to private. Analyzes audio files to detect content with personally identifiable information (PII) through AI.
+  
 - <b>Argentina Property Inspections</b>
   - This is a real project that is in operation about a company that is dedicated to inspecting properties in Argentina for clients from foreign countries. It is a static website made simply with HTML, CSS and JavaScript but with very successful SEO. [Repository](https://github.com/tomfenoglio/argentina-property-inspections.git) www.argentinainspections.com
 - <b>React Static Developer Portfolio</b>
