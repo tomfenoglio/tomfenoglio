@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tom! <br/> Industrial Engineer and Web Developer.</h1>
+<h1>Hi, I'm Tom! <br/> Industrial Engineer and Full-Stack Developer.</h1>
 
 <h2>👨🏻‍💻 My portfolio:</h2>
 
